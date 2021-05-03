@@ -9,3 +9,5 @@ then you can change the message whit your own bitcoin address.
 and the most important, change the password.
 
 i dont take responsability for your actions
+
+DONT BE SKID PLEASE(┬┬﹏┬┬)
